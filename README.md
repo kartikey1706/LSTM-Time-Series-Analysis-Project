@@ -55,11 +55,10 @@ Key Features
 6. **Modular Design**: Easy to extend and modify
 
 
+<img width="925" height="295" alt="Screenshot 2025-07-28 205508" src="https://github.com/user-attachments/assets/09ad4e62-0d8b-4136-a066-bfed6e4bbf54" />
+
 How to Run
 
 1. **Quick Demo**: Run `complete_evaluation.py` for a fast demonstration
 2. **Full Pipeline**: Run `training_pipeline.py` for complete analysis
 3. **Individual Components**: Run each script separately for specific tasks
-
-
-The project is ready for submission and includes all deliverables specified in your assignment. You can easily modify the stock symbol, time period, and model parameters to experiment with different configurations.
